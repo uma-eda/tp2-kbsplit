@@ -25,10 +25,10 @@ O algoritmo de Euclides para encontrar o MDC de quaisquer números inteiros A e 
 Repetir:
 * Se B é zero, o MDC é A.
 
-Caso contrário:
-* Calcular o resto R da divisão inteira de A por B
-* Atribuir o valor de B ao A 
-* Atribuir o valor de R ao B
+* Caso contrário:
+  - Calcular o resto R da divisão inteira de A por B
+  - Atribuir o valor de B ao A 
+  - Atribuir o valor de R ao B
 
 ## Tp2-Ex6:
 Escreva um programa que pede um número inteiro ao utilizador, testa se este é par ou ímpar e retorna o resultado.
